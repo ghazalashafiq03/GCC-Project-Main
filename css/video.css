@@ -1,0 +1,63 @@
+.links{
+
+font-size:15px;
+
+
+}
+
+
+
+.links a{
+
+text-decoration:none;
+margin-left:7%;
+color:white;
+
+
+}
+.links a:hover{
+background-color:white;
+text-decoration:none;
+color:black;
+}
+#to{
+
+color:white;
+margin-top:-90px;
+font-family:Lucida Calligraphy;
+}
+#to:hover{
+color:#00BDE7;
+
+}
+#too{
+
+color:white;
+
+}
+#too:hover{
+color:#00BDE7;
+
+}
+#hook{
+	background-color:#001D3C;
+	height:30%;
+	}
+.img{
+	height:300px;
+	
+	
+}
+#lia{
+background-color:#001D3C;
+height:5%;
+margin-top:-22px;
+
+
+}
+.one{
+margin-left:300px;
+
+border-radius:10px; 10px; 10px; 10px;
+
+}

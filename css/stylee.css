@@ -1,0 +1,78 @@
+#gggg{
+
+width:100%;
+height:10%;
+background-image:url(headd.gif);
+color:white;
+
+}
+#gggg{
+opacity:0.7;
+
+}
+
+
+#back{
+background-color:black;
+background-size:100%;
+}
+
+
+
+
+#vo{
+background-image:url(good.jpg);
+background-size:100%;
+background-repeat:no-repeat;
+
+border-radius:10px 10px 10px 10px;
+
+}
+#a{
+background-image:url(good.jpg);
+background-size:100%;
+background-repeat:no-repeat;
+color:white;
+background-color:black;
+border-radius:10px 10px 10px 10px;
+border:1px solid#F0F0F0;
+
+font-size:20px;
+height:50%;
+}
+#footer{
+border-radius:10px 10px 10px 10px;
+border:1px solid#F0F0F0;
+font-size:15px;
+
+}
+#lia{
+background-color:#498E8C;
+height:5%;
+margin-left:5px;
+opacity:0.9;
+
+}
+.links{
+
+font-size:15px;
+
+
+}
+
+
+
+.links a{
+
+text-decoration:none;
+margin-left:7%;
+color:white;
+
+
+}
+.links a:hover{
+background-color:white;
+text-decoration:none;
+color:black;
+}
+

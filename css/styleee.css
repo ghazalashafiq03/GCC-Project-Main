@@ -1,0 +1,72 @@
+#body{
+
+background-color:black;
+}
+#too{
+
+color:white;
+
+}
+#too:hover{
+color:#00BDE7;
+
+}
+#hook{
+	background-image:url(Alarm.gif);
+        height:10%;
+   
+  
+}
+#pooa{
+background-image:url(eye.jpg);
+background-repeat:no-repeat;
+background-size:100%;
+font-size:12px;
+color:white;
+}
+#footer{
+border-radius:10px 10px 10px 10px;
+border:1px solid#F0F0F0;
+font-size:15px;
+
+}
+#lia{
+background-color:#A8A6A8;
+height:5%;
+margin-top:-22px;
+
+
+}
+.links{
+
+font-size:15px;
+
+
+}
+
+
+
+.links a{
+
+text-decoration:none;
+margin-left:7%;
+color:white;
+
+
+}
+.links a:hover{
+background-color:white;
+text-decoration:none;
+color:black;
+}
+.place{
+background-color:transparent;
+width:70%;
+margin-top:55px;
+
+
+}
+#lik{
+color:#860C09;
+
+}

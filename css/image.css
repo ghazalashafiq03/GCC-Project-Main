@@ -1,0 +1,93 @@
+#girl{
+background-color:#EBD2B4;
+
+
+
+
+}
+#girll{
+background-image:url(girle.jpg);
+height:100%;
+
+margin-top:0%;
+background-repeat:no-repeat;
+
+}
+#start a{
+color:black;
+text-decoration:none;
+}
+#start{
+margin-left:55%;
+margin-tOP:20%;
+font-size:30px;
+
+font-family:Broadway;
+}
+#crop{
+margin-top:300px;
+font-size:30px;
+color:black;
+margin-left:-15%;
+font-family:Arial Black;
+
+
+}
+.links{
+
+font-size:15px;
+
+
+}
+
+
+
+.links a{
+
+text-decoration:none;
+margin-left:7%;
+color:white;
+
+
+}
+.links a:hover{
+background-color:white;
+text-decoration:none;
+color:black;
+}
+#to{
+
+color:white;
+margin-top:-90px;
+font-family:;
+}
+#to:hover{
+color:#00BDE7;
+
+}
+#too{
+
+color:white;
+font-family:Arial Black;
+margin-top:-20px;
+}
+#too:hover{
+color:#00BDE7;
+
+}
+#lia{
+background-color:#141414;
+height:5%;
+margin-top:-22px;
+
+
+}
+#hook{
+	background-color:#141414;
+	height:20%;
+	}
+#gp{
+height:120px;
+width:150px;
+margin-left:10px;
+}
